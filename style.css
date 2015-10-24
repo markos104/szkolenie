@@ -1,0 +1,16 @@
+body{
+	padding: 20px;
+}
+
+.container{
+	width: 800px;
+	display: block;
+	margin: 0 auto;
+	background: #e5e5e5;}
+.menu{
+	text-align: center;
+	padding: 10px;
+}
+.menu ul li{
+	display: inline-block;
+}
